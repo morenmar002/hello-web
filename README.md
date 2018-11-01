@@ -8,4 +8,4 @@ hi everyone
 
 [press here to view Harry Potter](https://morenmar002.github.io/harrypotter.md/)
 
-[Press here to view information on Cryptography](https://morenmar002.github.io/)
+[Press here to view information on Cryptography](https://morenmar002.github.io/cryptography.md/)
