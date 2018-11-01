@@ -6,6 +6,6 @@ hi everyone
 
 [Press here to view What is CS?](https://morenmar002.github.io/What-is-CompSci.md/)
 
-[press here to view Harry Potter](https://morenmar002.github.io/morenmar/harrypotter)
+[press here to view Harry Potter](https://morenmar002.github.io/maelmodu/harrypotter)
 
-[Press here to view information on Cryptography](https://morenmar002.github.io/morenmar/cryptography)
+[Press here to view information on Cryptography](https://morenmar002.github.io/maelmodu/cryptography)
